@@ -5,5 +5,9 @@ import (
 )
 
 func main() {
-	vars.ShowEnteras()
+	// vars.ShowEnteras()
+
+	vars.SetOtherVariables()
+	vars.ShowOtherVariables()
+
 }
